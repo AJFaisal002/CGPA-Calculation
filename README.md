@@ -12,7 +12,7 @@ You can paste text copied from the marksheet and the site will:
 
 ---
 
-## 🎥 5. Watch the Full Tutorial
+## 🎥 Watch the Full Tutorial
 
 A detailed demonstration is available in the file:
 
